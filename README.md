@@ -1,1 +1,2 @@
 # Hospital-Management-JDBC
+A Hospital Management System (HMS) is a comprehensive software application designed to manage the various aspects of hospital operations such as patient records, appointments, billing, staff management, inventory management, and more. Using JDBC (Java Database Connectivity), this system connects to a relational database to perform CRUD (Create, Read, Update, Delete) operations for efficient data handling and storage.
